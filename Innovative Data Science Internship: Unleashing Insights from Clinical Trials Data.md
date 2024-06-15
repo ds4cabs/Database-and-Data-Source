@@ -5,6 +5,7 @@ To develop data science skills and apply them to the analysis and interpretation
 
 #### **Project 1: Data Extraction and Database Creation**
 **Objective:** Extract and compile relevant clinical trial data from ClinicalTrials.gov into a structured database for analysis.
+
 **Tasks:**
 - Use APIs and web scraping techniques to collect data from ClinicalTrials.gov.
 - Clean and preprocess the data to ensure consistency and accuracy.
@@ -18,6 +19,7 @@ To develop data science skills and apply them to the analysis and interpretation
 
 #### **Project 2: Statistical Analysis of Clinical Trial Outcomes**
 **Objective:** Perform statistical analysis on clinical trial data to identify trends, success rates, and factors influencing trial outcomes.
+
 **Tasks:**
 - Formulate research questions and hypotheses based on clinical trial data.
 - Use R or Python to conduct statistical analyses, including descriptive statistics, survival analysis, and regression modeling.
@@ -31,6 +33,7 @@ To develop data science skills and apply them to the analysis and interpretation
 
 #### **Project 3: Machine Learning for Predictive Modeling**
 **Objective:** Develop and validate machine learning models to predict clinical trial success based on trial characteristics and historical data.
+
 **Tasks:**
 - Select relevant features and preprocess data for machine learning.
 - Develop predictive models using algorithms such as logistic regression, random forests, and neural networks.
@@ -44,6 +47,7 @@ To develop data science skills and apply them to the analysis and interpretation
 
 #### **Project 4: Meta-Analysis of Clinical Trial Data**
 **Objective:** Conduct a meta-analysis to combine results from multiple clinical trials and assess the overall effectiveness of a specific treatment.
+
 **Tasks:**
 - Identify and select relevant clinical trials from the database.
 - Extract and standardize outcome measures and other relevant data.
@@ -57,6 +61,7 @@ To develop data science skills and apply them to the analysis and interpretation
 
 #### **Project 5: Data Visualization Dashboard Development**
 **Objective:** Create an interactive dashboard to visualize clinical trial data and facilitate data exploration and decision-making.
+
 **Tasks:**
 - Design and implement an interactive dashboard using tools like Tableau, Power BI, or Shiny.
 - Integrate the dashboard with the clinical trial database.
