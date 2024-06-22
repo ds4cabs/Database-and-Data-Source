@@ -1,43 +1,23 @@
 # Database-and-Data-Source
 
-1. **[Health Analytics Data](https://github.com/corp-matthew-reid/health-analytics-data)**
-   - Provides datasets and code related to health analytics, including pharmaceutical data.
-   - Includes scripts for data preprocessing, analysis, and visualization.
+1. **HubSpot API**: [HubSpot](https://github.com/HubSpot) has various projects that provide integration and functionality for their marketing, sales, and service software. The HubSpot API projects on GitHub are widely used for marketing automation, CRM, and inbound marketing tasks.
 
-2. **[Open Payments Data Explorer](https://github.com/kylelindgren/OpenPaymentsDataExplorer)**
-   - Offers a web-based tool for exploring Open Payments data, which includes financial transactions between healthcare providers and pharmaceutical companies.
-   - Provides code for data extraction, transformation, and visualization.
+2. **Airflow Marketing Analytics**: This project, [airflow-marketing-analytics](https://github.com/astronomerio/airflow-marketing-analytics), provides pipelines for marketing analytics using Apache Airflow. It helps automate the collection, analysis, and visualization of marketing data from various sources.
 
-3. **[FDA Adverse Event Reporting System (FAERS) Data Analysis](https://github.com/FDA/FAERS)**
-   - Contains code and data related to the analysis of adverse event reports submitted to the FDA.
-   - Useful for understanding drug safety and market dynamics.
+3. **Segment**: [Segment](https://github.com/segmentio) is a customer data platform that helps collect and manage marketing data. Their GitHub repositories include libraries and tools for integrating Segment with various platforms and services.
 
-4. **[Drug Pricing Data](https://github.com/cssegisanddata/COVID-19)**
-   - Although primarily focused on COVID-19, this repository includes data on drug pricing and availability.
-   - Includes code for data cleaning, analysis, and visualization.
+4. **Marketing-API-Samples by Facebook**: [Facebook's Marketing API Samples](https://github.com/facebook/facebook-python-business-sdk) provide sample code and tools for interacting with Facebook's Marketing API, allowing users to automate and optimize their Facebook marketing campaigns.
 
-5. **[Healthcare Data Analysis](https://github.com/HealthcareData/HealthcareData)**
-   - Provides various healthcare datasets, including those related to pharmaceutical sales and marketing.
-   - Includes Jupyter notebooks and scripts for data analysis and machine learning.
+5. **Google Ads API Client Libraries**: Google provides [client libraries](https://github.com/googleads/google-ads-python) for interacting with the Google Ads API. These libraries help developers build, manage, and optimize Google Ads campaigns programmatically.
 
-6. **[IQVIA Data](https://github.com/iqviaopen)**
-   - While not specific to marketing, IQVIA provides healthcare data and analytics which can be leveraged for pharmaceutical marketing insights.
-   - Includes tools and libraries for data processing and analysis.
+6. **Mautic**: [Mautic](https://github.com/mautic/mautic) is an open-source marketing automation tool that provides features for email marketing, social media marketing, and customer relationship management. The GitHub repository includes the source code and documentation for setting up and customizing Mautic.
 
-7. **[Medicare Part D Prescriber Data](https://github.com/propublica/medicare-part-d)**
-   - Contains data on prescriptions filled under Medicare Part D, which can be useful for analyzing prescribing patterns.
-   - Includes code for data extraction and analysis.
+7. **Metabase**: [Metabase](https://github.com/metabase/metabase) is an open-source business intelligence tool that helps users create dashboards and visualize marketing data. It supports various data sources and provides an easy-to-use interface for non-technical users.
 
-8. **[Pharma Data Analysis](https://github.com/pharma-data/pharma-data-analysis)**
-   - Focuses on analyzing various pharmaceutical datasets, including sales and marketing data.
-   - Provides scripts and notebooks for data analysis and visualization.
+8. **PostHog**: [PostHog](https://github.com/PostHog/posthog) is an open-source product analytics platform that helps marketers and product teams understand user behavior. It offers features for event tracking, user analytics, and feature flagging.
 
-9. **[Marketing Data Analysis](https://github.com/marketing-data/marketing-data-analysis)**
-   - Offers datasets and code for analyzing marketing data, including pharmaceutical marketing.
-   - Includes examples of machine learning models and data visualization techniques.
+9. **Mailtrain**: [Mailtrain](https://github.com/Mailtrain-org/mailtrain) is an open-source self-hosted newsletter application. It allows users to manage email marketing campaigns, track analytics, and handle subscriber lists.
 
-10. **[RxNorm API](https://github.com/HHS/rxnorm-api)**
-    - Provides access to the RxNorm database, which includes information on drug nomenclature and relationships.
-    - Useful for integrating drug data into marketing analyses.
+10. **Simple Analytics**: [Simple Analytics](https://github.com/simpleanalytics/roadmap) provides privacy-friendly web analytics without using cookies. It’s an alternative to Google Analytics, focusing on simplicity and privacy.
 
-These repositories offer a mix of datasets, code for data processing and analysis, and tools for visualizing and understanding pharmaceutical marketing data.
+These projects provide a range of tools and functionalities to help marketers automate tasks, analyze data, and optimize their campaigns.
